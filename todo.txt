@@ -1,0 +1,14 @@
+Need to do:
+- Add stuff here
+
+1.0.3
+- Bug fix: URL encode append text
+
+1.0.2
+- Allow the options to be set at a network level.
+
+1.0.1
+- Clean up the code.
+
+1.0.0
+- Basic functions in place
